@@ -1,5 +1,4 @@
 # authenticationSystem
-Spring Boot 3.x Project with Spring Security 6 and Keycloak Integration.
 This project is a demonstration of integrating Spring Boot 3.x with Spring Security 6 and Keycloak for secure authentication and authorization.
 
 ## Table of Contents
