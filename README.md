@@ -34,8 +34,10 @@ To set up this project, follow these steps:
 2. Ensure Docker is installed and running.
 3. Navigate to the `keycloak` directory within the project.
 4. Run the Keycloak server using Docker Compose:
-  docker-compose up -d
-5. Once Keycloak is up and running, proceed to configure it.
+  ```bash
+    docker-compose up -d
+  ```
+6. Once Keycloak is up and running, proceed to configure it.
 
 ## Configuration
 
